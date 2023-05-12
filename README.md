@@ -24,3 +24,12 @@ $ snap install deno
 $ deno task dev
 ```
 
+### Porta e Adaptadores
+
+O que é uma Porta?
+
+Uma porta é a interface dizendo o que o CasoDeUso precisa para funcionar dentro da aplicação, é uma forma de comunicar com o mundo exterior.
+
+O que é um Adaptador?
+
+A implementação de uma interface "Porta", adaptadores são a conexão entre a aplicação e o mundo externo, Ex.: Dependencia com libs para determinado CasoDeUso ou um resource de banco de dados.
