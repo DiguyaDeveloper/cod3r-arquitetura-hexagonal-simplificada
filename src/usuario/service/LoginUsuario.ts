@@ -1,6 +1,6 @@
-import CasoDeUso from "../../shared/CasoDeUso";
-import ColecaoUsuarios from "../data/ColecaoUsuario";
-import Usuario from "../model/Usuario";
+import CasoDeUso from "../../shared/CasoDeUso.ts";
+import ColecaoUsuarios from "../data/ColecaoUsuario.ts";
+import Usuario from "../model/Usuario.ts";
 
 export type LoginUsuarioDTO = {
   email: string;
