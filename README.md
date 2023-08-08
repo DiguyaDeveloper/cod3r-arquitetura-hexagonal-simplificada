@@ -3,11 +3,6 @@
 
 <p align="center">Esse projeto é um exemplo simplificado de como funciona uma arquitetura hexagonal</p>
 
-<h4 align="center"> 
-	🚀 Em construção...  🚧
-</h4>
-
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
